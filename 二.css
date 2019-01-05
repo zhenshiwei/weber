@@ -1,0 +1,46 @@
+/*
+* @Author: lenovo
+* @Date:   2019-01-03 09:14:44
+* @Last Modified by:   lenovo
+* @Last Modified time: 2019-01-05 15:26:44
+*/
+div{ margin:0 auto;
+ 	width:1180px;
+}
+.b>span{
+	width:150px;
+	height:20px;
+	font-size:8px;
+	color:grey;
+	display:block;
+}
+.c>p{
+	margin-left:px;
+}
+#big{  
+	position:absolute;
+	margin-left:410px;
+}
+#hui{  
+	position:absolute;
+	width:100px;
+	height:100px;
+	background-color:grey;
+	opacity:0.2;
+}
+#gou{
+	position:fixed;
+	left:30%;
+	top:30%;
+	display:none;
+	width:400px;
+	height:200px;
+}
+#da{
+	position:fixed;
+	width:100%;
+	height:100%;
+	opacity: 0.2;
+	background-color: grey;
+	display:none;
+}
